@@ -1,0 +1,12 @@
+gensim
+google
+imbalanced-learn
+jupyter
+nltk
+numpy
+pandas
+regex
+scikit-learn
+scipy
+tqdm
+transformers
